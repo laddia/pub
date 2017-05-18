@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "Love Art",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -629,7 +629,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161208-103319-2000x2666-26-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-mg-2000x2677.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -644,9 +644,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Art Modeling",
-          "text": "Snelschets figuurtekenen met als materiaal kleurpotlood",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "title": "Martin Luther King",
+          "text": "Het portret in de kleuren van Amerika",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
         },
         {
           "_tags": [
@@ -683,7 +683,7 @@
           },
           "title": "Art Modeling",
           "text": "Snelschets figuurtekenen met als materiaal kleurpotlood",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
         },
         {
           "_tags": [
@@ -692,7 +692,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#f3c649"
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
@@ -703,7 +703,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20161208-103319-2000x2666-26-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-mg-2000x3081.jpg",
             "bgColor": "#00a885",
             "bgColorRadio": false,
             "bgVideo": {
@@ -718,8 +718,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Art Modeling",
-          "text": "Snelschets figuurtekenen met als materiaal kleurpotlood",
+          "title": "Verloren lino",
+          "text": "Fantastisch water",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         }
       ]

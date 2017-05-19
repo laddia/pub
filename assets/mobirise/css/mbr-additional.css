@@ -87,7 +87,7 @@ h6,
   background-color: #b8312f !important;
 }
 .bg-success {
-  background-color: #00a885 !important;
+  background-color: #11ffcd !important;
 }
 .bg-info {
   background-color: #3d8eb9 !important;
@@ -159,8 +159,8 @@ h6,
   border-color: #2a627f !important;
 }
 .btn-success {
-  background-color: #00a885;
-  border-color: #00a885;
+  background-color: #11ffcd;
+  border-color: #11ffcd;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -169,14 +169,14 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
-  background-color: #005c48;
-  border-color: #005c48;
+  background-color: #00c39a;
+  border-color: #00c39a;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #005c48 !important;
-  border-color: #005c48 !important;
+  background-color: #00c39a !important;
+  border-color: #00c39a !important;
 }
 .btn-warning {
   background-color: #2b0680;
@@ -280,8 +280,8 @@ h6,
 }
 .btn-success-outline {
   background: none;
-  border-color: #004234;
-  color: #004234;
+  border-color: #00aa86;
+  color: #00aa86;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -289,14 +289,14 @@ h6,
 .btn-success-outline:active,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #00a885;
-  border-color: #00a885;
+  background-color: #11ffcd;
+  border-color: #11ffcd;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #00a885 !important;
-  border-color: #00a885 !important;
+  background-color: #11ffcd !important;
+  border-color: #11ffcd !important;
 }
 .btn-warning-outline {
   background: none;
@@ -342,7 +342,7 @@ h6,
   color: #b8312f !important;
 }
 .text-success {
-  color: #00a885 !important;
+  color: #11ffcd !important;
 }
 .text-info {
   color: #3d8eb9 !important;
@@ -354,7 +354,7 @@ h6,
   color: #553982 !important;
 }
 .alert-success {
-  background-color: #00a885;
+  background-color: #11ffcd;
 }
 .alert-info {
   background-color: #3d8eb9;
@@ -399,7 +399,7 @@ h6,
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #28ffd2;
+  color: #ddfff8;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -435,11 +435,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.65rem;
+  font-size: 1.2rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 1.300rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -449,19 +449,19 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #0e0e0e;
+  background: #132385;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #182ba4!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #1a2fb1;
 }
 #menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -517,11 +517,11 @@ h6,
   color: #ffffff;
 }
 #menu-6 .link {
-  font-size: 0.65rem;
+  font-size: 1.2rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 1.300rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -531,19 +531,19 @@ h6,
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-menu {
-  background: #0e0e0e;
+  background: #132385;
 }
 #menu-6 .nav-dropdown-sm .link:focus,
 #menu-6 .nav-dropdown-sm .link:hover,
 #menu-6 .nav-dropdown-sm .dropdown-item:focus,
 #menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #182ba4!important;
 }
 #menu-6 .navbar,
 #menu-6 .nav-dropdown-sm,
 #menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #1a2fb1;
 }
 #menu-6 .bg-color.transparent .link {
   color: #ffffff;

@@ -501,7 +501,7 @@
           },
           "title": "Martin Luther King",
           "text": "Het portret in de kleuren van Amerika",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>  "
         },
         {
           "_tags": [
@@ -706,7 +706,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/-mg-2000x1297.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -734,14 +734,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1307.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "IMAGE SLIDE",
+                "title": "Imaginable",
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
@@ -756,7 +756,7 @@
           "articleLayout": false,
           "_styles": {
             "H2": {
-              "color": "#00a885"
+              "color": "#90a878"
             }
           }
         },
